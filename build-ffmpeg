@@ -525,6 +525,7 @@ download "https://github.com/FFmpeg/FFmpeg/archive/refs/heads/release/$FFMPEG_VE
   --disable-indevs \
   --disable-outdevs \
   --disable-sdl2 \
+  --disable-xlib \
   --disable-ffplay \
   --enable-pthreads \
   --enable-static \
