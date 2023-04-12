@@ -2,5 +2,6 @@ packages
 workspace
 .idea
 linux
+output
 .artifacts
 .DS_Store
