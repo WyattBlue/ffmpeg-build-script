@@ -664,6 +664,7 @@ pushd packages/FFmpeg-release-6.0
   --enable-pthreads \
   --enable-static \
   --enable-version3 \
+  --enable-small \
   --extra-cflags="${CFLAGS}" \
   --extra-ldexeflags="${LDEXEFLAGS}" \
   --extra-ldflags="${LDFLAGS}" \
